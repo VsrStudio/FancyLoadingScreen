@@ -1,6 +1,6 @@
 <?php
 
-namespace spicearth\loadingscreen;
+namespace VsrStudio\loadingscreen;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;
@@ -8,13 +8,13 @@ use pocketmine\command\CommandSender;
 use pocketmine\player\Player;
 use pocketmine\world\World;
 use pocketmine\world\WorldManager;
-use spicearth\loadingscreen\command\LoadingScreenCommand;
+use VsrStudio\loadingscreen\command\LoadingScreenCommand;
 use muqsit\dimensionportals\DimensionPortalManager;
 use muqsit\dimensionportals\DimensionPortal;
 
 /**
  * Class LoadingScreen
- * @package spicearth\loadingscreen
+ * @package VsrStudio\loadingscreen
  */
 class LoadingScreen extends PluginBase
 {
