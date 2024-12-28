@@ -1,2 +1,5 @@
 # FancyLoadingScreen
-this fake waterdog
+Fake waterdog 
+# Dependencies
+- Multiworld
+- [DimensionPortalsFix](https://poggit.pmmp.io/ci/VsrStudio/DimensionPortalsFix/NetherPortal)
