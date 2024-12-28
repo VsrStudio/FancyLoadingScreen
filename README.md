@@ -4,4 +4,4 @@ Fake waterdog
 - Multiworld
 - [DimensionPortalsFix](https://poggit.pmmp.io/ci/VsrStudio/DimensionPortalsFix/NetherPortal)
 # Command
-- /transfer <NameWorld>
+- /transfer  < NameWorld >
