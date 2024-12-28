@@ -6,3 +6,12 @@ author: VsrStudio
 depend:
   - DimensionPortals
   - MultiWorld
+commands:
+  transfer:
+    description: Perintah untuk mentransfer pemain ke dunia lain dengan tampilan loading.
+    permission: transfer.world.command
+    permission-message: "&cKamu tidak punya izin untuk menggunakan command ini."
+permissions:
+  transfer.world.command:
+    description: Izin untuk menggunakan perintah transfer dunia
+    default: op
